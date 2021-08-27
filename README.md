@@ -1,3 +1,5 @@
+Welcome to my GitHub Profile!
+
 - Hi, I’m Hariharan
 - I’m interested in Software Engineering, Machine Learning and IoT
 - Looking for oppurtunities in Data Science or Software development
