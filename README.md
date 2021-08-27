@@ -1,5 +1,7 @@
 - Hi, I’m Hariharan
 - I’m interested in Software Engineering, Machine Learning and IoT
+- Looking for oppurtunities in Data Science or Software development
+- Currently learning app development using Flutter, Firebase
 
 
 <!---
