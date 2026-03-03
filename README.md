@@ -15,7 +15,7 @@ I enjoy working at the intersection of systems + security + intelligent decision
 
 🏗️ Experience Highlights
 
-🟢 Postman — Software Engineer 2
+🟢 Postman — Software Engineer 
 
 - Building large-scale platform services
 - Performance optimization & reliability engineering
