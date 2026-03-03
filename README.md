@@ -21,7 +21,7 @@ I enjoy working at the intersection of systems + security + intelligent decision
 - Performance optimization & reliability engineering
 - Designing internal system components for scale
 
-🔵 PayU (Wibmo) — Software Engineer
+🔵 PayU  — Software Engineer
 
 - Worked on Access Control Server (ACS) infrastructure
 - Built new payment flows that are used by major banks for payment authentication
