@@ -4,36 +4,37 @@ Ex-PayU
 👨‍💻 What I Work On
 I enjoy working at the intersection of systems + security + intelligent decision systems.
 
-Distributed backend systems
-Low-latency service design
-Authentication & payment security
-Privacy-preserving AI
-Applied machine learning in fintech
+- Distributed backend systems
+- Low-latency service design
+- Authentication & payment security
+- Privacy-preserving AI
+- Applied machine learning in fintech
 
 
 
 🏗️ Experience Highlights
 🟢 Postman — Software Engineer 2
-Building large-scale platform services
-Performance optimization & reliability engineering
-Designing internal system components for scale
+
+- Building large-scale platform services
+- Performance optimization & reliability engineering
+- Designing internal system components for scale
 
 🔵 PayU (Wibmo) — Software Engineer
 
-Worked on Access Control Server (ACS) infrastructure
-Built new payment flows that are used by major banks for payment authentication
-Worked on transaction risk scoring for step-up authentication
+- Worked on Access Control Server (ACS) infrastructure
+- Built new payment flows that are used by major banks for payment authentication
+- Worked on transaction risk scoring for step-up authentication
 
 🧠 Research & Technical Interests
-Distributed systems architecture
-High-performance & low-latency systems
-Privacy-aware authentication models
-Explainability & robustness in ML systems
-Secure financial infrastructure design
+- Distributed systems architecture
+- High-performance & low-latency systems
+- Privacy-aware authentication models
+- Explainability & robustness in ML systems
+- Secure financial infrastructure design
 
 📚 Publications
-IEEE Access — Network Intrusion Detection (Hybrid DL model)
-Springer — CNN-based Hand Signal Classification
+- IEEE Access — Network Intrusion Detection (Hybrid DL model)
+- Springer — CNN-based Hand Signal Classification
 
 
 <!---
